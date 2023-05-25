@@ -12,7 +12,7 @@ class Main {
     	BufferedReader reader = null;
     	try {
            
-            reader = new BufferedReader(new InputStreamReader(System.in));
+            reader = new BufferedReader(new InputStreamReader(System.in)); 
             
             int[] array = new int[3];
             String[] elements = reader.readLine().split(" ");

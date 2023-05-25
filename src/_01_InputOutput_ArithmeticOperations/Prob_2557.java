@@ -1,4 +1,4 @@
-package Main;
+package _01_InputOutput_ArithmeticOperations;
 
 public class Prob_2557 {
 

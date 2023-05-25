@@ -1,4 +1,4 @@
-package chap99_etc;
+package _01_InputOutput_ArithmeticOperations;
 
 public class Prob_10171 {
 

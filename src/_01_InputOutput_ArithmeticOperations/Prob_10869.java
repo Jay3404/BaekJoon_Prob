@@ -1,10 +1,10 @@
-package Main;
+package _01_InputOutput_ArithmeticOperations;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Prob_18108 {
+public class Prob_10869 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,20 +12,19 @@ public class Prob_18108 {
         try {
         	
         	reader = new BufferedReader(new InputStreamReader(System.in));
-        	
-            String[] answer = reader.readLine().split(" ");
 
-            int[] intArr = new int[3];
+        	int[] array = new int[2];
+            String[] elements = reader.readLine().split(" ");
             
-            for(int i = 0; i < 3; i++) {
-            	intArr[i] = Integer.parseInt(answer[i]);
+            for (int i = 0; i < 2; i++) {
+                array[i] = Integer.parseInt(elements[i]);
             }
             
-            System.out.println((intArr[0]+intArr[1])%intArr[2] );
-            System.out.println(((intArr[0]%intArr[2]) + (intArr[1]%intArr[2]))%intArr[2]);
-            System.out.println((intArr[0] * intArr[1])%intArr[2]);
-            System.out.println(((intArr[0] % intArr[2]) * (intArr[1] % intArr[2]))%intArr[2]);
-            
+            System.out.println(array[0] + array[1]);
+            System.out.println(array[0] - array[1]);
+            System.out.println(array[0] * array[1]);
+            System.out.println(array[0] / array[1]);
+            System.out.println(array[0] % array[1]);
             
         } catch (IOException e) {
             e.printStackTrace();

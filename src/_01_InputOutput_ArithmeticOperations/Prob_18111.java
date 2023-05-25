@@ -1,4 +1,4 @@
-package Main;
+package _01_InputOutput_ArithmeticOperations;
 
 import java.io.BufferedReader;
 import java.io.IOException;

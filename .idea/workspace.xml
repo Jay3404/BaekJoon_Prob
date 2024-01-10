@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a3d764-11b3-496d-bab4-b2c71ca9fa85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CodingTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10809.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10811.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10988.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11654.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11718.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11720.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2444.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2675.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2743.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27866.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2908.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2941.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5622.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9086.py" afterDir="false" />
+    <list default="true" id="94a3d764-11b3-496d-bab4-b2c71ca9fa85" name="Changes" comment="2024.01.09">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,33 +33,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.10809.executor": "Run",
-    "Python.10811.executor": "Run",
-    "Python.10988.executor": "Run",
-    "Python.1152.executor": "Run",
-    "Python.1157.executor": "Run",
-    "Python.11654.executor": "Run",
-    "Python.11718.executor": "Run",
-    "Python.11720.executor": "Run",
-    "Python.2444.executor": "Run",
-    "Python.25083.executor": "Run",
-    "Python.2675.executor": "Run",
-    "Python.2743.executor": "Run",
-    "Python.27866.executor": "Run",
-    "Python.2908.executor": "Run",
-    "Python.2941.executor": "Run",
-    "Python.3003.executor": "Run",
-    "Python.5622.executor": "Run",
-    "Python.9086.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.ㅁㄴㅇ.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10809.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10811.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10988.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1152.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1157.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11654.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11718.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11720.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2444.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2675.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2743.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27866.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2908.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2941.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5622.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9086.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ㅁㄴㅇ.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -102,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10811.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/one_dimensional_array/10811.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,6 +105,42 @@
       <option name="presentableId" value="Default" />
       <updated>1704828668286</updated>
     </task>
+    <task id="LOCAL-00001" summary="2024.01.09">
+      <option name="closed" value="true" />
+      <created>1704862594681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704862594681</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024.01.09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.01.09" />
   </component>
 </project>

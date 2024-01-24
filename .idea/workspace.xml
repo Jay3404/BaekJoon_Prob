@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94a3d764-11b3-496d-bab4-b2c71ca9fa85" name="Changes" comment="이차원 배열 - 2024.01.10">
-      <change afterPath="$PROJECT_DIR$/two_dimensional_array/10798.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_dimensional_array/2563.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_dimensional_array/2566.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_dimensional_array/2738.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,39 +47,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.10798.executor": "Run",
-    "Python.10809.executor": "Run",
-    "Python.10811.executor": "Run",
-    "Python.10988.executor": "Run",
-    "Python.1152.executor": "Run",
-    "Python.1157.executor": "Run",
-    "Python.11654.executor": "Run",
-    "Python.11718.executor": "Run",
-    "Python.11720.executor": "Run",
-    "Python.1316.executor": "Run",
-    "Python.2444.executor": "Run",
-    "Python.25083.executor": "Run",
-    "Python.25206.executor": "Run",
-    "Python.2563.executor": "Run",
-    "Python.2566.executor": "Run",
-    "Python.2675.executor": "Run",
-    "Python.2738.executor": "Run",
-    "Python.2743.executor": "Run",
-    "Python.27866.executor": "Run",
-    "Python.2908.executor": "Run",
-    "Python.2941.executor": "Run",
-    "Python.3003.executor": "Run",
-    "Python.5622.executor": "Run",
-    "Python.9086.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.ㅁㄴㅇ.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10798.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10809.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10811.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10988.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1152.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1157.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11654.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11718.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11720.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1316.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2444.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25206.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2563.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2566.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2675.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2738.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2743.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27866.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2908.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2941.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5622.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9086.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ㅁㄴㅇ.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Coding/CodingTest/CodingTestWithPython/BaekJoon_Prob&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -95,7 +92,6 @@
   <component name="RunManager">
     <configuration name="10811" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CodingTest" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>

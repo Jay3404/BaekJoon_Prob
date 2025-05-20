@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a3d764-11b3-496d-bab4-b2c71ca9fa85" name="Changes" comment="이차원 배열 - 2024.01.10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_dimensional_array/10798.py" beforeDir="false" afterPath="$PROJECT_DIR$/7. 2차원 배열/10798.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_dimensional_array/2563.py" beforeDir="false" afterPath="$PROJECT_DIR$/7. 2차원 배열/2563.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_dimensional_array/2566.py" beforeDir="false" afterPath="$PROJECT_DIR$/7. 2차원 배열/2566.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_dimensional_array/2738.py" beforeDir="false" afterPath="$PROJECT_DIR$/7. 2차원 배열/2738.py" afterDir="false" />
+    <list default="true" id="94a3d764-11b3-496d-bab4-b2c71ca9fa85" name="Changes" comment="etc: gitignore 파일 추가&#10;.idea 파일">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704828668286</updated>
-      <workItem from="1747706309972" duration="320000" />
+      <workItem from="1747706309972" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="2024.01.09">
       <option name="closed" value="true" />
@@ -181,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704917643093</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix: 폴더 명 변경&#10;기존: 영문명&#10;변경 후: 한글명">
+      <option name="closed" value="true" />
+      <created>1747706762345</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747706762345</updated>
+    </task>
+    <task id="LOCAL-00007" summary="etc: gitignore 파일 추가&#10;.idea 파일">
+      <option name="closed" value="true" />
+      <created>1747706840919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747706840919</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +227,8 @@
     <MESSAGE value="1차원 배열 - 2024.01.09" />
     <MESSAGE value="문자열 - 2024.01.09" />
     <MESSAGE value="심화 - 2024.01.09" />
-    <option name="LAST_COMMIT_MESSAGE" value="심화 - 2024.01.09" />
+    <MESSAGE value="fix: 폴더 명 변경&#10;기존: 영문명&#10;변경 후: 한글명" />
+    <MESSAGE value="etc: gitignore 파일 추가&#10;.idea 파일" />
+    <option name="LAST_COMMIT_MESSAGE" value="etc: gitignore 파일 추가&#10;.idea 파일" />
   </component>
 </project>
